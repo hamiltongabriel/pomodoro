@@ -31,7 +31,7 @@ const ESTADO = {
   TERMINAR: "terminar",
   PAUSAR: "pausar"
 };
-const TEMPO_PARA_TRABALHAR = 1;
+const TEMPO_PARA_TRABALHAR = 25;
 const TEMPO_PARA_DESCANSO = 5;
 export default {
   data: () => ({
