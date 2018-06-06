@@ -1,6 +1,6 @@
 # pomodoro
 
-> A Vue.js project
+> Pomodoro in Evolution.
 
 ## Build Setup
 
